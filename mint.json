@@ -1,8 +1,8 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "OmaxTelecom Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "https://omaxtelecom.com/wp-content/uploads/2.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
