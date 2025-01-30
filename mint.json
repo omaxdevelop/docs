@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "https://omaxtelecom.com/support"
+      "name": "System status",
+      "url": "https://status.omaxtelecom.com/"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Support",
+    "url": "https://omaxtelecom.com/support"
   },
   "tabs": [
     {
