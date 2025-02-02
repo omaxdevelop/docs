@@ -30,6 +30,10 @@
       "name": "API Reference",
       "url": "api-reference"
     }
+   {
+      "name": "User portal",
+      "url": "user-portal"
+    }
   ],
   "anchors": [
     {
